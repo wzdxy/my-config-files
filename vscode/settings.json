@@ -1,0 +1,20 @@
+// 将设置放入此文件中以覆盖默认设置
+{       
+    //滚轮缩放字体
+    "editor.mouseWheelZoom": true
+    
+    //缩进参考线
+    ,"editor.renderIndentGuides": true
+    
+    //打开的编辑器显示数量，0为隐藏
+    ,"explorer.openEditors.visible": 0
+    
+    //同步Git仓库前先确认
+    ,"git.confirmSync": true
+    
+    // HTML以新行结束。
+    ,"html.format.endWithNewline": true
+
+    //字体连字
+    ,"editor.fontLigatures": true
+}
